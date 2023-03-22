@@ -14,3 +14,6 @@
 ### starship
 ```brew install starship```
 ```echo 'eval "$(starship init zsh)"' >> ~/.zshrc```
+
+### copy everything in
+```cp -a ~/dots/. ~/```
