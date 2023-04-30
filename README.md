@@ -17,5 +17,3 @@
 
 ### copy everything in
 ```cp -a ~/dots/. ~/```
-
-# TODO Add a script to automate the above ^
