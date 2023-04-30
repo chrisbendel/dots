@@ -11,3 +11,5 @@ source ~/.zshrc
 
 cp -a ~/dots/. ~/
 cp .aliases ~/
+
+Test
