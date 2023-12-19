@@ -18,4 +18,5 @@
 ### copy everything in
 ```cp -a ~/dots/. ~/```
 
-# TODO Add a script to automate the above ^
+
+#### TODO - write a teardown script
