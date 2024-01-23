@@ -1,7 +1,7 @@
 # dot
 
 ## setup
-i hate  snake_case
+
 ### setup zsh
 [zsh docs](https://sourabhbajaj.com/mac-setup/iTerm/zsh.htm)l
 1. `brew install zsh`
