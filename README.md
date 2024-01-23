@@ -2,7 +2,6 @@
 
 ## setup
 
-i love merge conflicts
 ### setup zsh
 [zsh docs](https://sourabhbajaj.com/mac-setup/iTerm/zsh.htm)l
 1. `brew install zsh`
