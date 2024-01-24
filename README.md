@@ -1,5 +1,5 @@
 # dot
-
+# I love merge conflicts
 ## setup
 
 ### setup zsh
