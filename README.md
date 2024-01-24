@@ -1,5 +1,5 @@
 # dot
-
+# Cool stuff
 ## setup
 
 ### setup zsh
