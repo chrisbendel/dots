@@ -2,8 +2,12 @@
 # Cool stuff
 ## setup
 
+## Steps:
+- [install brew](https://brew.sh/)
+- [install zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.htm)
+
 ### setup zsh
-[zsh docs](https://sourabhbajaj.com/mac-setup/iTerm/zsh.htm)l
+
 1. `brew install zsh`
 2. `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 3. `echo "source .aliases" >> ~/.zshrc`
