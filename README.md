@@ -1,5 +1,4 @@
 # dot
-# Cool stuf asdfasdfasdff
 ## setup
 
 ## Steps:
