@@ -1,5 +1,4 @@
 # dot
-# Cool stuff
 ## setup
 
 ## Steps:
